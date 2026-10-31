@@ -42,5 +42,3 @@ This repository contains C++ programs implemented as part of the course **Object
 - **Language:** C++
 - **Compiler:** GCC / G++
 
-## Objective
-To understand and implement fundamental Object-Oriented Programming concepts through practical C++ programs.
