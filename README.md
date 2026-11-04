@@ -2,7 +2,13 @@
 # Object-Oriented Programming Using C++
 
 This repository contains C++ programs implemented as part of the course **Object-Oriented Programming Using C++ (25EECE421)**, covering concepts from Chapters 1–4.
-
+## Student Details
+- **Name: Vasundhara Shreekant Gondakar** 
+- **Roll Number: 339** 
+- **USN: 01FE23BEC133** 
+- **Division: C** 
+- **Semester: 7th sem**
+- 
 ## Topics Covered
 
 ### Chapter 1: Fundamental Concepts of OOP
@@ -37,6 +43,14 @@ This repository contains C++ programs implemented as part of the course **Object
 - Static Functions
 - `this` Pointer
 - Operator Overloading
+### Chapter 5: Exception Handling
+- Introduction to Exception Handling
+- Throwing Exceptions
+- Try and Catch Blocks
+- Multiple Exception Handlers
+- Exceptions with Arguments
+- Built-in Exception Class Hierarchy
+- Stack Unwinding
 
 ## Language & Tools
 - **Language:** C++
